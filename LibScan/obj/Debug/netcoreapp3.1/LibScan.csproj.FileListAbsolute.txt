@@ -1,0 +1,11 @@
+C:\Users\rrkrp\source\repos\LibScan\LibScan\bin\Debug\netcoreapp3.1\LibScan.exe
+C:\Users\rrkrp\source\repos\LibScan\LibScan\bin\Debug\netcoreapp3.1\LibScan.deps.json
+C:\Users\rrkrp\source\repos\LibScan\LibScan\bin\Debug\netcoreapp3.1\LibScan.runtimeconfig.json
+C:\Users\rrkrp\source\repos\LibScan\LibScan\bin\Debug\netcoreapp3.1\LibScan.runtimeconfig.dev.json
+C:\Users\rrkrp\source\repos\LibScan\LibScan\bin\Debug\netcoreapp3.1\LibScan.dll
+C:\Users\rrkrp\source\repos\LibScan\LibScan\bin\Debug\netcoreapp3.1\LibScan.pdb
+C:\Users\rrkrp\source\repos\LibScan\LibScan\obj\Debug\netcoreapp3.1\LibScan.csprojAssemblyReference.cache
+C:\Users\rrkrp\source\repos\LibScan\LibScan\obj\Debug\netcoreapp3.1\LibScan.AssemblyInfoInputs.cache
+C:\Users\rrkrp\source\repos\LibScan\LibScan\obj\Debug\netcoreapp3.1\LibScan.AssemblyInfo.cs
+C:\Users\rrkrp\source\repos\LibScan\LibScan\obj\Debug\netcoreapp3.1\LibScan.dll
+C:\Users\rrkrp\source\repos\LibScan\LibScan\obj\Debug\netcoreapp3.1\LibScan.pdb
