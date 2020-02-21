@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rrkrp\\source\\repos\\LibScan\\LibScan\\LibScan.csproj": {}
+    "C:\\Users\\rpandey\\Desktop\\LibScan\\LibScan\\LibScan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rrkrp\\source\\repos\\LibScan\\LibScan\\LibScan.csproj": {
+    "C:\\Users\\rpandey\\Desktop\\LibScan\\LibScan\\LibScan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rrkrp\\source\\repos\\LibScan\\LibScan\\LibScan.csproj",
+        "projectUniqueName": "C:\\Users\\rpandey\\Desktop\\LibScan\\LibScan\\LibScan.csproj",
         "projectName": "LibScan",
-        "projectPath": "C:\\Users\\rrkrp\\source\\repos\\LibScan\\LibScan\\LibScan.csproj",
-        "packagesPath": "C:\\Users\\rrkrp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rrkrp\\source\\repos\\LibScan\\LibScan\\obj\\",
+        "projectPath": "C:\\Users\\rpandey\\Desktop\\LibScan\\LibScan\\LibScan.csproj",
+        "packagesPath": "C:\\Users\\rpandey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rpandey\\Desktop\\LibScan\\LibScan\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rrkrp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rpandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://stage-packagegallery.tavisca.com/api/odata": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cnxloyalty.com/api/v2": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
